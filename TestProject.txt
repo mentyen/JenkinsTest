@@ -1,4 +1,5 @@
 Hello World
-My second edition
-And this is a git conflict line
+My second commit
+This is my third commit
+This is my Last commit
 Hello This is new commit from a college
